@@ -1,3 +1,6 @@
+// @author: Nana Obeng
+// @id: 10885631
+
 package main;
 
 import javafx.application.Application;
